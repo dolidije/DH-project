@@ -1,0 +1,7187 @@
+{
+   "nodes": [
+      {
+         "id": "Abate, Fabio",
+         "group": "1"
+      },
+      {
+         "id": "Addor, Jean-Luc",
+         "group": "1"
+      },
+      {
+         "id": "Aebi, Andreas",
+         "group": "1"
+      },
+      {
+         "id": "Aebischer, Matthias",
+         "group": "1"
+      },
+      {
+         "id": "Aeschi, Thomas",
+         "group": "1"
+      },
+      {
+         "id": "Allemann, Evi",
+         "group": "1"
+      },
+      {
+         "id": "Amarelle, Cesla",
+         "group": "1"
+      },
+      {
+         "id": "Amaudruz, Céline",
+         "group": "1"
+      },
+      {
+         "id": "Amherd, Viola",
+         "group": "1"
+      },
+      {
+         "id": "Ammann, Thomas",
+         "group": "1"
+      },
+      {
+         "id": "Amstutz, Adrian",
+         "group": "1"
+      },
+      {
+         "id": "Arslan, Sibel",
+         "group": "1"
+      },
+      {
+         "id": "Badran, Jaqueline",
+         "group": "1"
+      },
+      {
+         "id": "Barazzone, Guillaume",
+         "group": "1"
+      },
+      {
+         "id": "Barrile, Angelo",
+         "group": "1"
+      },
+      {
+         "id": "Bauer, Philippe",
+         "group": "1"
+      },
+      {
+         "id": "Baumann, Isidor",
+         "group": "1"
+      },
+      {
+         "id": "Bäumle, Martin",
+         "group": "1"
+      },
+      {
+         "id": "Béglé, Claude",
+         "group": "1"
+      },
+      {
+         "id": "Berberat, Didier",
+         "group": "1"
+      },
+      {
+         "id": "Bertschy, Kathrin",
+         "group": "1"
+      },
+      {
+         "id": "Bigler, Hans-Ulrich",
+         "group": "1"
+      },
+      {
+         "id": "Birrer-Heimo, Prisca",
+         "group": "1"
+      },
+      {
+         "id": "Bischof, Pirmin",
+         "group": "1"
+      },
+      {
+         "id": "Bischofberger, Ivo",
+         "group": "1"
+      },
+      {
+         "id": "Borloz, Frédéric",
+         "group": "1"
+      },
+      {
+         "id": "Bourgeois, Jacques",
+         "group": "1"
+      },
+      {
+         "id": "Brand, Heinz",
+         "group": "1"
+      },
+      {
+         "id": "Brélaz, Daniel",
+         "group": "1"
+      },
+      {
+         "id": "Bruderer Wyss, Pascale",
+         "group": "1"
+      },
+      {
+         "id": "Brunner, Toni",
+         "group": "1"
+      },
+      {
+         "id": "Büchel, Roland Rino",
+         "group": "1"
+      },
+      {
+         "id": "Bächler, Jakob",
+         "group": "1"
+      },
+      {
+         "id": "Bühler, Manfred",
+         "group": "1"
+      },
+      {
+         "id": "Bulliard-Marbach, Christine",
+         "group": "1"
+      },
+      {
+         "id": "Burgherr, Thomas",
+         "group": "1"
+      },
+      {
+         "id": "Burkart, Thierry",
+         "group": "1"
+      },
+      {
+         "id": "Buttet, Yannick",
+         "group": "1"
+      },
+      {
+         "id": "Campell, Duri",
+         "group": "1"
+      },
+      {
+         "id": "Candinas, Martin",
+         "group": "1"
+      },
+      {
+         "id": "Carobbio Guscetti, Marina",
+         "group": "1"
+      },
+      {
+         "id": "Caroni, Andrea",
+         "group": "1"
+      },
+      {
+         "id": "Cassis, Ignazio",
+         "group": "1"
+      },
+      {
+         "id": "Clottu, Raymond",
+         "group": "1"
+      },
+      {
+         "id": "Comte, Raphaël",
+         "group": "1"
+      },
+      {
+         "id": "Cramer, Robert",
+         "group": "1"
+      },
+      {
+         "id": "de Buman, Dominique",
+         "group": "1"
+      },
+      {
+         "id": "de Courten, Thomas",
+         "group": "1"
+      },
+      {
+         "id": "de la Reussille, Denis",
+         "group": "1"
+      },
+      {
+         "id": "Derder, Fathi",
+         "group": "1"
+      },
+      {
+         "id": "Dettling, Marcel",
+         "group": "1"
+      },
+      {
+         "id": "Dittli, Josef",
+         "group": "1"
+      },
+      {
+         "id": "Dobler, Marcel",
+         "group": "1"
+      },
+      {
+         "id": "Eichenberger-Walther, Corina",
+         "group": "1"
+      },
+      {
+         "id": "Engler, Stefan",
+         "group": "1"
+      },
+      {
+         "id": "Estermann, Yvette",
+         "group": "1"
+      },
+      {
+         "id": "Ettlin, Erich",
+         "group": "1"
+      },
+      {
+         "id": "Eymann, Christoph",
+         "group": "1"
+      },
+      {
+         "id": "Fässler, Daniel",
+         "group": "1"
+      },
+      {
+         "id": "Fehlmann Rielle, Laurence",
+         "group": "1"
+      },
+      {
+         "id": "Feller, Olivier",
+         "group": "1"
+      },
+      {
+         "id": "Feri, Yvonne",
+         "group": "1"
+      },
+      {
+         "id": "Fetz, Anita",
+         "group": "1"
+      },
+      {
+         "id": "Fiala, Doris",
+         "group": "1"
+      },
+      {
+         "id": "Flach, Beat",
+         "group": "1"
+      },
+      {
+         "id": "Flückiger-Bäni, Sylvia",
+         "group": "1"
+      },
+      {
+         "id": "Fluri, Kurt",
+         "group": "1"
+      },
+      {
+         "id": "Föhn, Peter",
+         "group": "1"
+      },
+      {
+         "id": "Fournier, Jean-René",
+         "group": "1"
+      },
+      {
+         "id": "Français, Olivier",
+         "group": "1"
+      },
+      {
+         "id": "Frehner, Sebastian",
+         "group": "1"
+      },
+      {
+         "id": "Fricker, Jonas",
+         "group": "1"
+      },
+      {
+         "id": "Fridez, Pierre-Alain",
+         "group": "1"
+      },
+      {
+         "id": "Friedl, Claudia",
+         "group": "1"
+      },
+      {
+         "id": "Galladé, Chantal",
+         "group": "1"
+      },
+      {
+         "id": "Gasche, Urs",
+         "group": "1"
+      },
+      {
+         "id": "Geissbühler, Andrea Martina",
+         "group": "1"
+      },
+      {
+         "id": "Genecand, Benoît",
+         "group": "1"
+      },
+      {
+         "id": "Germann, Hannes",
+         "group": "1"
+      },
+      {
+         "id": "Giezendanner, Ulrich",
+         "group": "1"
+      },
+      {
+         "id": "Girod, Bastien",
+         "group": "1"
+      },
+      {
+         "id": "Glanzmann-Hunkeler, Ida",
+         "group": "1"
+      },
+      {
+         "id": "Glarner, Andreas",
+         "group": "1"
+      },
+      {
+         "id": "Glättli, Balthasar",
+         "group": "1"
+      },
+      {
+         "id": "Glauser-Zufferey, Alice",
+         "group": "1"
+      },
+      {
+         "id": "Gmür-Schönenberger, Andrea",
+         "group": "1"
+      },
+      {
+         "id": "Gmür, Alois",
+         "group": "1"
+      },
+      {
+         "id": "Golay, Roger",
+         "group": "1"
+      },
+      {
+         "id": "Gössi, Petra",
+         "group": "1"
+      },
+      {
+         "id": "Graber, Konrad",
+         "group": "1"
+      },
+      {
+         "id": "Graf-Litscher, Edith",
+         "group": "1"
+      },
+      {
+         "id": "Graf, Maya",
+         "group": "1"
+      },
+      {
+         "id": "Grossen, Jürg",
+         "group": "1"
+      },
+      {
+         "id": "Grunder, Hans",
+         "group": "1"
+      },
+      {
+         "id": "Grüter, Franz",
+         "group": "1"
+      },
+      {
+         "id": "Gschwind, Jean-Paul",
+         "group": "1"
+      },
+      {
+         "id": "Guhl, Bernhard",
+         "group": "1"
+      },
+      {
+         "id": "Gysi, Barbara",
+         "group": "1"
+      },
+      {
+         "id": "Häberli-Koller, Brigitte",
+         "group": "1"
+      },
+      {
+         "id": "Hadorn, Philipp",
+         "group": "1"
+      },
+      {
+         "id": "Hardegger, Thomas",
+         "group": "1"
+      },
+      {
+         "id": "Häsler, Christine",
+         "group": "1"
+      },
+      {
+         "id": "Hausammann, Markus",
+         "group": "1"
+      },
+      {
+         "id": "Hêche, Claude",
+         "group": "1"
+      },
+      {
+         "id": "Heer, Alfred",
+         "group": "1"
+      },
+      {
+         "id": "Hefti, Thomas",
+         "group": "1"
+      },
+      {
+         "id": "Hegglin, Peter",
+         "group": "1"
+      },
+      {
+         "id": "Heim, Bea",
+         "group": "1"
+      },
+      {
+         "id": "Herzog, Verena",
+         "group": "1"
+      },
+      {
+         "id": "Hess, Erich",
+         "group": "1"
+      },
+      {
+         "id": "Hess, Hermann",
+         "group": "1"
+      },
+      {
+         "id": "Hess, Lorenz",
+         "group": "1"
+      },
+      {
+         "id": "Hiltpold, Hugues",
+         "group": "1"
+      },
+      {
+         "id": "Hösli, Werner",
+         "group": "1"
+      },
+      {
+         "id": "Humbel, Ruth",
+         "group": "1"
+      },
+      {
+         "id": "Hurter, Thomas",
+         "group": "1"
+      },
+      {
+         "id": "Imark, Christian",
+         "group": "1"
+      },
+      {
+         "id": "Ingold, Maja",
+         "group": "1"
+      },
+      {
+         "id": "Janiak, Claude",
+         "group": "1"
+      },
+      {
+         "id": "Jans, Beat",
+         "group": "1"
+      },
+      {
+         "id": "Jauslin, Matthias Samuel",
+         "group": "1"
+      },
+      {
+         "id": "Jositsch, Daniel",
+         "group": "1"
+      },
+      {
+         "id": "Keller-Inhelder, Barbara",
+         "group": "1"
+      },
+      {
+         "id": "Keller-Sutter, Karin",
+         "group": "1"
+      },
+      {
+         "id": "Keller, Peter",
+         "group": "1"
+      },
+      {
+         "id": "Kiener Nellen, Margret",
+         "group": "1"
+      },
+      {
+         "id": "Knecht, Hansjörg",
+         "group": "1"
+      },
+      {
+         "id": "Köppel, Roger",
+         "group": "1"
+      },
+      {
+         "id": "Kuprecht, Alex",
+         "group": "1"
+      },
+      {
+         "id": "Landolt, Martin",
+         "group": "1"
+      },
+      {
+         "id": "Leutenegger Oberholzer, Susanne",
+         "group": "1"
+      },
+      {
+         "id": "Levrat, Christian",
+         "group": "1"
+      },
+      {
+         "id": "Lohr, Christian",
+         "group": "1"
+      },
+      {
+         "id": "Lombardi, Filippo",
+         "group": "1"
+      },
+      {
+         "id": "Luginbühl, Werner",
+         "group": "1"
+      },
+      {
+         "id": "Lüscher, Christian",
+         "group": "1"
+      },
+      {
+         "id": "Maire, Jacques-André",
+         "group": "1"
+      },
+      {
+         "id": "Marchand-Balet, Géraldine",
+         "group": "1"
+      },
+      {
+         "id": "Markwalder, Christa",
+         "group": "1"
+      },
+      {
+         "id": "Marra, Ada",
+         "group": "1"
+      },
+      {
+         "id": "Marti, Min Li",
+         "group": "1"
+      },
+      {
+         "id": "Martullo-Blocher, Magdalena",
+         "group": "1"
+      },
+      {
+         "id": "Masshardt, Nadine",
+         "group": "1"
+      },
+      {
+         "id": "Matter, Thomas",
+         "group": "1"
+      },
+      {
+         "id": "Maury Pasquier, Liliane",
+         "group": "1"
+      },
+      {
+         "id": "Mazzone, Lisa",
+         "group": "1"
+      },
+      {
+         "id": "Merlini, Giovanni",
+         "group": "1"
+      },
+      {
+         "id": "Meyer, Mattea",
+         "group": "1"
+      },
+      {
+         "id": "Minder, Thomas",
+         "group": "1"
+      },
+      {
+         "id": "Moret, Isabelle",
+         "group": "1"
+      },
+      {
+         "id": "Moser, Tiana Angelina",
+         "group": "1"
+      },
+      {
+         "id": "Müller-Altermatt, Stefan",
+         "group": "1"
+      },
+      {
+         "id": "Müller, Damian",
+         "group": "1"
+      },
+      {
+         "id": "Müller, Leo",
+         "group": "1"
+      },
+      {
+         "id": "Müller, Philipp",
+         "group": "1"
+      },
+      {
+         "id": "Müller, Thomas",
+         "group": "1"
+      },
+      {
+         "id": "Müller, Walter",
+         "group": "1"
+      },
+      {
+         "id": "Munz, Martina",
+         "group": "1"
+      },
+      {
+         "id": "Müri, Felix",
+         "group": "1"
+      },
+      {
+         "id": "Naef, Martin",
+         "group": "1"
+      },
+      {
+         "id": "Nantermod, Philippe",
+         "group": "1"
+      },
+      {
+         "id": "Nidegger, Yves",
+         "group": "1"
+      },
+      {
+         "id": "Nordmann, Roger",
+         "group": "1"
+      },
+      {
+         "id": "Noser, Ruedi",
+         "group": "1"
+      },
+      {
+         "id": "Nussbaumer, Eric",
+         "group": "1"
+      },
+      {
+         "id": "Page, Pierre-André",
+         "group": "1"
+      },
+      {
+         "id": "Pantani, Roberta",
+         "group": "1"
+      },
+      {
+         "id": "Pardini, Corrado",
+         "group": "1"
+      },
+      {
+         "id": "Pezzatti, Bruno",
+         "group": "1"
+      },
+      {
+         "id": "Pfister, Gerhard",
+         "group": "1"
+      },
+      {
+         "id": "Pieren, Nadja",
+         "group": "1"
+      },
+      {
+         "id": "Piller Carrard, Valérie",
+         "group": "1"
+      },
+      {
+         "id": "Portmann, Hans-Peter",
+         "group": "1"
+      },
+      {
+         "id": "Quadranti, Rosmarie",
+         "group": "1"
+      },
+      {
+         "id": "Quadri, Lorenzo",
+         "group": "1"
+      },
+      {
+         "id": "Rechsteiner, Paul",
+         "group": "1"
+      },
+      {
+         "id": "Regazzi, Fabio",
+         "group": "1"
+      },
+      {
+         "id": "Reimann, Lukas",
+         "group": "1"
+      },
+      {
+         "id": "Reimann, Maximilian",
+         "group": "1"
+      },
+      {
+         "id": "Reynard, Mathias",
+         "group": "1"
+      },
+      {
+         "id": "Rickli, Natalie",
+         "group": "1"
+      },
+      {
+         "id": "Rieder, Beat",
+         "group": "1"
+      },
+      {
+         "id": "Riklin, Kathy",
+         "group": "1"
+      },
+      {
+         "id": "Rime, Jean-François",
+         "group": "1"
+      },
+      {
+         "id": "Ritter, Markus",
+         "group": "1"
+      },
+      {
+         "id": "Romano, Marco",
+         "group": "1"
+      },
+      {
+         "id": "Rösti, Albert",
+         "group": "1"
+      },
+      {
+         "id": "Ruiz, Rebecca Ana",
+         "group": "1"
+      },
+      {
+         "id": "Ruppen, Franz",
+         "group": "1"
+      },
+      {
+         "id": "Rutz, Gregor",
+         "group": "1"
+      },
+      {
+         "id": "Rytz, Regula",
+         "group": "1"
+      },
+      {
+         "id": "Salzmann, Werner",
+         "group": "1"
+      },
+      {
+         "id": "Sauter, Regine",
+         "group": "1"
+      },
+      {
+         "id": "Savary, Géraldine",
+         "group": "1"
+      },
+      {
+         "id": "Schelbert, Louis",
+         "group": "1"
+      },
+      {
+         "id": "Schenker, Silvia",
+         "group": "1"
+      },
+      {
+         "id": "Schilliger, Peter",
+         "group": "1"
+      },
+      {
+         "id": "Schmid-Federer, Barbara",
+         "group": "1"
+      },
+      {
+         "id": "Schmid, Martin",
+         "group": "1"
+      },
+      {
+         "id": "Schmidt, Roberto",
+         "group": "1"
+      },
+      {
+         "id": "Schneeberger, Daniela",
+         "group": "1"
+      },
+      {
+         "id": "Schneider-Schneiter, Elisabeth",
+         "group": "1"
+      },
+      {
+         "id": "Schwaab, Jean Christophe",
+         "group": "1"
+      },
+      {
+         "id": "Schwander, Pirmin",
+         "group": "1"
+      },
+      {
+         "id": "Seiler Graf, Priska",
+         "group": "1"
+      },
+      {
+         "id": "Semadeni, Silva",
+         "group": "1"
+      },
+      {
+         "id": "Seydoux-Christe, Anne",
+         "group": "1"
+      },
+      {
+         "id": "Sollberger, Sandra",
+         "group": "1"
+      },
+      {
+         "id": "Sommaruga, Carlo",
+         "group": "1"
+      },
+      {
+         "id": "Stahl, Jürg",
+         "group": "1"
+      },
+      {
+         "id": "Stamm, Luzi",
+         "group": "1"
+      },
+      {
+         "id": "Steiert, Jean-François",
+         "group": "1"
+      },
+      {
+         "id": "Steinemann, Barbara",
+         "group": "1"
+      },
+      {
+         "id": "Stöckli, Hans",
+         "group": "1"
+      },
+      {
+         "id": "Streiff-Feller, Marianne",
+         "group": "1"
+      },
+      {
+         "id": "Thorens Goumaz, Adèle",
+         "group": "1"
+      },
+      {
+         "id": "Tornare, Manuel",
+         "group": "1"
+      },
+      {
+         "id": "Tschäppät, Alexander",
+         "group": "1"
+      },
+      {
+         "id": "Tuena, Mauro",
+         "group": "1"
+      },
+      {
+         "id": "Vitali, Albert",
+         "group": "1"
+      },
+      {
+         "id": "Vogler, Karl",
+         "group": "1"
+      },
+      {
+         "id": "Vogt, Hans-Ueli",
+         "group": "1"
+      },
+      {
+         "id": "von Siebenthal, Erich",
+         "group": "1"
+      },
+      {
+         "id": "Vonlanthen, Beat",
+         "group": "1"
+      },
+      {
+         "id": "Walliser, Bruno",
+         "group": "1"
+      },
+      {
+         "id": "Walter, Hansjörg",
+         "group": "1"
+      },
+      {
+         "id": "Walti, Beat",
+         "group": "1"
+      },
+      {
+         "id": "Wasserfallen, Christian",
+         "group": "1"
+      },
+      {
+         "id": "Wehrli, Laurent",
+         "group": "1"
+      },
+      {
+         "id": "Weibel, Thomas",
+         "group": "1"
+      },
+      {
+         "id": "Wermuth, Cédric",
+         "group": "1"
+      },
+      {
+         "id": "Wicki, Hans",
+         "group": "1"
+      },
+      {
+         "id": "Wobmann, Walter",
+         "group": "1"
+      },
+      {
+         "id": "Zanetti, Claudio",
+         "group": "1"
+      },
+      {
+         "id": "Zanetti, Roberto",
+         "group": "1"
+      },
+      {
+         "id": "Zuberbühler, David",
+         "group": "1"
+      },
+      {
+         "id": "Wirtschaftspolitik",
+         "group": "2"
+      },
+      {
+         "id": "Rechtsordnung",
+         "group": "2"
+      },
+      {
+         "id": "Verkehr und Kommunikation",
+         "group": "2"
+      },
+      {
+         "id": "Geld, Währung und Kredit",
+         "group": "2"
+      },
+      {
+         "id": "Gesundheit, Sozialhilfe, Sport",
+         "group": "2"
+      },
+      {
+         "id": "Aussenpolitik",
+         "group": "2"
+      },
+      {
+         "id": "Landwirtschaft",
+         "group": "2"
+      },
+      {
+         "id": "Kultur, Sprache, Kirchen",
+         "group": "2"
+      },
+      {
+         "id": "Bildung und Forschung",
+         "group": "2"
+      },
+      {
+         "id": "Umweltschutz",
+         "group": "2"
+      },
+      {
+         "id": "Wirtschaftspolitik/Rechtsordnung",
+         "group": "2"
+      },
+      {
+         "id": "Raumplanung und Wohnungswesen",
+         "group": "2"
+      },
+      {
+         "id": "Aussenpolitik/Bildung und Forschung",
+         "group": "2"
+      },
+      {
+         "id": "Soziale Gruppen",
+         "group": "2"
+      },
+      {
+         "id": "Umweltschutz/Kultur, Sprache, Kirchen",
+         "group": "2"
+      },
+      {
+         "id": "Energie",
+         "group": "2"
+      },
+      {
+         "id": "Bevölkerung und Arbeit",
+         "group": "2"
+      },
+      {
+         "id": "Sozialversicherungen",
+         "group": "2"
+      },
+      {
+         "id": "Medien",
+         "group": "2"
+      },
+      {
+         "id": "Bildung und Forschung/Gesundheit, Sozialhilfe, Sport",
+         "group": "2"
+      },
+      {
+         "id": "Föderativer Aufbau",
+         "group": "2"
+      },
+      {
+         "id": "Politische Grundfragen",
+         "group": "2"
+      },
+      {
+         "id": "Parteien",
+         "group": "2"
+      },
+      {
+         "id": "Wirtschaftspolitik/Energie",
+         "group": "2"
+      },
+      {
+         "id": "Aussenpolitik/Wirtschaftspolitik",
+         "group": "2"
+      },
+      {
+         "id": "Landesverteidigung",
+         "group": "2"
+      },
+      {
+         "id": "Coordinamento donne della sinistra",
+         "group": "2"
+      },
+      {
+         "id": "Kultur, Sprache, Kirchen/Gesundheit, Sozialhilfe, Sport",
+         "group": "2"
+      },
+      {
+         "id": "Wirtschaftspolitik",
+         "group": "2"
+      },
+      {
+         "id": "Aussenpolitik/Landesverteidigung",
+         "group": "2"
+      },
+      {
+         "id": "Wirtschaftspolitik/Aussenpolitik",
+         "group": "2"
+      },
+      {
+         "id": "Kultur, Sprache, Kirchen/Bildung und Forschung",
+         "group": "2"
+      },
+      {
+         "id": "Kultur, Sprache, Kirche",
+         "group": "2"
+      },
+      {
+         "id": "Raumplanung und Wohnungswesen",
+         "group": "2"
+      },
+      {
+         "id": "Öffentliche Finanzen",
+         "group": "2"
+      },
+      {
+         "id": "Institutionen und Volksrechte",
+         "group": "2"
+      },
+      {
+         "id": "Werbung",
+         "group": "2"
+      },
+      {
+         "id": "Bevölkerung und Arbeit/Soziale Gruppen",
+         "group": "2"
+      },
+      {
+         "id": "treuhand",
+         "group": "2"
+      },
+      {
+         "id": "Bildung und Forschung/Aussenpolitik",
+         "group": "2"
+      }
+   ],
+   "links": [
+      {
+         "source": "Abate, Fabio",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Abate, Fabio",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Abate, Fabio",
+         "target": "Rechtsordnung"
+      },
+      {
+         "source": "Abate, Fabio",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Abate, Fabio",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Abate, Fabio",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Abate, Fabio",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Addor, Jean-Luc",
+         "target": "Rechtsordnung"
+      },
+      {
+         "source": "Addor, Jean-Luc",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Addor, Jean-Luc",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Addor, Jean-Luc",
+         "target": "Rechtsordnung"
+      },
+      {
+         "source": "Aebi, Andreas",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Aebi, Andreas",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Aebi, Andreas",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Aebischer, Matthias",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Aebischer, Matthias",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Aebischer, Matthias",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Aebischer, Matthias",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Aebischer, Matthias",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Aebischer, Matthias",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Aebischer, Matthias",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Aebischer, Matthias",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Aebischer, Matthias",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Aebischer, Matthias",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Aebischer, Matthias",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Aebischer, Matthias",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Aebischer, Matthias",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Aebischer, Matthias",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Aebischer, Matthias",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Aebischer, Matthias",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Aebischer, Matthias",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Aeschi, Thomas",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Aeschi, Thomas",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Aeschi, Thomas",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Aeschi, Thomas",
+         "target": "Rechtsordnung"
+      },
+      {
+         "source": "Aeschi, Thomas",
+         "target": "Wirtschaftspolitik/Rechtsordnung"
+      },
+      {
+         "source": "Allemann, Evi",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Allemann, Evi",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Allemann, Evi",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Allemann, Evi",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Allemann, Evi",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Allemann, Evi",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Allemann, Evi",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Amarelle, Cesla",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Amarelle, Cesla",
+         "target": "Aussenpolitik/Bildung und Forschung"
+      },
+      {
+         "source": "Amarelle, Cesla",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Amarelle, Cesla",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Amarelle, Cesla",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Amaudruz, Céline",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Amaudruz, Céline",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Amaudruz, Céline",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Amherd, Viola",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Amherd, Viola",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Amherd, Viola",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Amherd, Viola",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Amherd, Viola",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Amherd, Viola",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Amherd, Viola",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Amherd, Viola",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Amherd, Viola",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Amherd, Viola",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Amherd, Viola",
+         "target": "Rechtsordnung"
+      },
+      {
+         "source": "Amherd, Viola",
+         "target": "Umweltschutz/Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Ammann, Thomas",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Ammann, Thomas",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Ammann, Thomas",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Ammann, Thomas",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Ammann, Thomas",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Ammann, Thomas",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Ammann, Thomas",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Ammann, Thomas",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Ammann, Thomas",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Amstutz, Adrian",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Amstutz, Adrian",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Amstutz, Adrian",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Amstutz, Adrian",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Amstutz, Adrian",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Amstutz, Adrian",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Amstutz, Adrian",
+         "target": "Energie"
+      },
+      {
+         "source": "Arslan, Sibel",
+         "target": "Rechtsordnung"
+      },
+      {
+         "source": "Arslan, Sibel",
+         "target": "Rechtsordnung"
+      },
+      {
+         "source": "Arslan, Sibel",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Badran, Jaqueline",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Badran, Jaqueline",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Badran, Jaqueline",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Badran, Jaqueline",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Barazzone, Guillaume",
+         "target": "Bevölkerung und Arbeit"
+      },
+      {
+         "source": "Barrile, Angelo",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Barrile, Angelo",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Barrile, Angelo",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Barrile, Angelo",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Barrile, Angelo",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Bauer, Philippe",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Bauer, Philippe",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Bauer, Philippe",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Bauer, Philippe",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Bauer, Philippe",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Bauer, Philippe",
+         "target": "Medien"
+      },
+      {
+         "source": "Bauer, Philippe",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Bauer, Philippe",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Bauer, Philippe",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Bauer, Philippe",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Baumann, Isidor",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Baumann, Isidor",
+         "target": "Energie"
+      },
+      {
+         "source": "Baumann, Isidor",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Baumann, Isidor",
+         "target": "Energie"
+      },
+      {
+         "source": "Baumann, Isidor",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Baumann, Isidor",
+         "target": "Medien"
+      },
+      {
+         "source": "Baumann, Isidor",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Baumann, Isidor",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Bäumle, Martin",
+         "target": "Energie"
+      },
+      {
+         "source": "Bäumle, Martin",
+         "target": "Energie"
+      },
+      {
+         "source": "Bäumle, Martin",
+         "target": "Energie"
+      },
+      {
+         "source": "Bäumle, Martin",
+         "target": "Energie"
+      },
+      {
+         "source": "Bäumle, Martin",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Bäumle, Martin",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Bäumle, Martin",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Bäumle, Martin",
+         "target": "Energie"
+      },
+      {
+         "source": "Bäumle, Martin",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Bäumle, Martin",
+         "target": "Energie"
+      },
+      {
+         "source": "Bäumle, Martin",
+         "target": "Energie"
+      },
+      {
+         "source": "Béglé, Claude",
+         "target": "Medien"
+      },
+      {
+         "source": "Béglé, Claude",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Béglé, Claude",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Béglé, Claude",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Béglé, Claude",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Béglé, Claude",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Béglé, Claude",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Berberat, Didier",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Berberat, Didier",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Berberat, Didier",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Berberat, Didier",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Berberat, Didier",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Berberat, Didier",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Berberat, Didier",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Berberat, Didier",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Berberat, Didier",
+         "target": "Bevölkerung und Arbeit"
+      },
+      {
+         "source": "Berberat, Didier",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Berberat, Didier",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Berberat, Didier",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Berberat, Didier",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Bertschy, Kathrin",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Bertschy, Kathrin",
+         "target": "Bevölkerung und Arbeit"
+      },
+      {
+         "source": "Bertschy, Kathrin",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Bigler, Hans-Ulrich",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Bigler, Hans-Ulrich",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Bigler, Hans-Ulrich",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Bigler, Hans-Ulrich",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Bigler, Hans-Ulrich",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Bigler, Hans-Ulrich",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Bigler, Hans-Ulrich",
+         "target": "Energie"
+      },
+      {
+         "source": "Birrer-Heimo, Prisca",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Birrer-Heimo, Prisca",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Birrer-Heimo, Prisca",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Birrer-Heimo, Prisca",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Bischof, Pirmin",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Bischof, Pirmin",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Bischof, Pirmin",
+         "target": "Energie"
+      },
+      {
+         "source": "Bischof, Pirmin",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Bischof, Pirmin",
+         "target": "Energie"
+      },
+      {
+         "source": "Bischof, Pirmin",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Bischof, Pirmin",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Bischof, Pirmin",
+         "target": "Rechtsordnung"
+      },
+      {
+         "source": "Bischof, Pirmin",
+         "target": "Bevölkerung und Arbeit"
+      },
+      {
+         "source": "Bischof, Pirmin",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Bischof, Pirmin",
+         "target": "Bevölkerung und Arbeit"
+      },
+      {
+         "source": "Bischofberger, Ivo",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Bischofberger, Ivo",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Bischofberger, Ivo",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Bischofberger, Ivo",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Bischofberger, Ivo",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Bischofberger, Ivo",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Bischofberger, Ivo",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Bischofberger, Ivo",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Bischofberger, Ivo",
+         "target": "Aussenpolitik/Bildung und Forschung"
+      },
+      {
+         "source": "Bischofberger, Ivo",
+         "target": "Energie"
+      },
+      {
+         "source": "Bischofberger, Ivo",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Bischofberger, Ivo",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Bischofberger, Ivo",
+         "target": "Energie"
+      },
+      {
+         "source": "Borloz, Frédéric",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Borloz, Frédéric",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Borloz, Frédéric",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Borloz, Frédéric",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Borloz, Frédéric",
+         "target": "Energie"
+      },
+      {
+         "source": "Borloz, Frédéric",
+         "target": "Energie"
+      },
+      {
+         "source": "Borloz, Frédéric",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Borloz, Frédéric",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Borloz, Frédéric",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Borloz, Frédéric",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Borloz, Frédéric",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Borloz, Frédéric",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Bourgeois, Jacques",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Bourgeois, Jacques",
+         "target": "Energie"
+      },
+      {
+         "source": "Bourgeois, Jacques",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Bourgeois, Jacques",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Bourgeois, Jacques",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Bourgeois, Jacques",
+         "target": "Energie"
+      },
+      {
+         "source": "Brand, Heinz",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Brand, Heinz",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Brand, Heinz",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Brand, Heinz",
+         "target": "Bildung und Forschung/Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Brand, Heinz",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Brand, Heinz",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Brand, Heinz",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Brélaz, Daniel",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Brélaz, Daniel",
+         "target": "Föderativer Aufbau"
+      },
+      {
+         "source": "Brélaz, Daniel",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Bruderer Wyss, Pascale",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Bruderer Wyss, Pascale",
+         "target": "Medien"
+      },
+      {
+         "source": "Bruderer Wyss, Pascale",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Bruderer Wyss, Pascale",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Bruderer Wyss, Pascale",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Bruderer Wyss, Pascale",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Bruderer Wyss, Pascale",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Bruderer Wyss, Pascale",
+         "target": "Politische Grundfragen"
+      },
+      {
+         "source": "Bruderer Wyss, Pascale",
+         "target": "Energie"
+      },
+      {
+         "source": "Bruderer Wyss, Pascale",
+         "target": "Energie"
+      },
+      {
+         "source": "Bruderer Wyss, Pascale",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Brunner, Toni",
+         "target": "Parteien"
+      },
+      {
+         "source": "Brunner, Toni",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Brunner, Toni",
+         "target": "Wirtschaftspolitik/Energie"
+      },
+      {
+         "source": "Brunner, Toni",
+         "target": "Parteien"
+      },
+      {
+         "source": "Brunner, Toni",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Büchel, Roland Rino",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Büchel, Roland Rino",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Bächler, Jakob",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Bächler, Jakob",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Bächler, Jakob",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Bächler, Jakob",
+         "target": "Energie"
+      },
+      {
+         "source": "Bühler, Manfred",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Bühler, Manfred",
+         "target": "Föderativer Aufbau"
+      },
+      {
+         "source": "Bühler, Manfred",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Bühler, Manfred",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Bühler, Manfred",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Bühler, Manfred",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Bühler, Manfred",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Bulliard-Marbach, Christine",
+         "target": "Medien"
+      },
+      {
+         "source": "Bulliard-Marbach, Christine",
+         "target": "Medien"
+      },
+      {
+         "source": "Bulliard-Marbach, Christine",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Bulliard-Marbach, Christine",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Bulliard-Marbach, Christine",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Bulliard-Marbach, Christine",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Bulliard-Marbach, Christine",
+         "target": "Föderativer Aufbau"
+      },
+      {
+         "source": "Bulliard-Marbach, Christine",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Burgherr, Thomas",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Burgherr, Thomas",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Burgherr, Thomas",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Burgherr, Thomas",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Burgherr, Thomas",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Burgherr, Thomas",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Burgherr, Thomas",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Burgherr, Thomas",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Burgherr, Thomas",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Burgherr, Thomas",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Burkart, Thierry",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Burkart, Thierry",
+         "target": "Rechtsordnung"
+      },
+      {
+         "source": "Burkart, Thierry",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Burkart, Thierry",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Burkart, Thierry",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Burkart, Thierry",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Burkart, Thierry",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Burkart, Thierry",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Burkart, Thierry",
+         "target": "Aussenpolitik/Wirtschaftspolitik"
+      },
+      {
+         "source": "Buttet, Yannick",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Buttet, Yannick",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Buttet, Yannick",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Buttet, Yannick",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Buttet, Yannick",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Buttet, Yannick",
+         "target": "Landesverteidigung"
+      },
+      {
+         "source": "Buttet, Yannick",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Buttet, Yannick",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Buttet, Yannick",
+         "target": "Energie"
+      },
+      {
+         "source": "Buttet, Yannick",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Buttet, Yannick",
+         "target": "Landesverteidigung"
+      },
+      {
+         "source": "Buttet, Yannick",
+         "target": "Landesverteidigung"
+      },
+      {
+         "source": "Buttet, Yannick",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Campell, Duri",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Campell, Duri",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Campell, Duri",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Campell, Duri",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Campell, Duri",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Campell, Duri",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Campell, Duri",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Campell, Duri",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Candinas, Martin",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Candinas, Martin",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Candinas, Martin",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Candinas, Martin",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Candinas, Martin",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Candinas, Martin",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Candinas, Martin",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Candinas, Martin",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Candinas, Martin",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Candinas, Martin",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Candinas, Martin",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Candinas, Martin",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Candinas, Martin",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Candinas, Martin",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Candinas, Martin",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Candinas, Martin",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Candinas, Martin",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Carobbio Guscetti, Marina",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Carobbio Guscetti, Marina",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Carobbio Guscetti, Marina",
+         "target": "Bevölkerung und Arbeit"
+      },
+      {
+         "source": "Carobbio Guscetti, Marina",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Carobbio Guscetti, Marina",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Carobbio Guscetti, Marina",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Carobbio Guscetti, Marina",
+         "target": "Coordinamento donne della sinistra"
+      },
+      {
+         "source": "Carobbio Guscetti, Marina",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Caroni, Andrea",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Caroni, Andrea",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Cassis, Ignazio",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Cassis, Ignazio",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Cassis, Ignazio",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Cassis, Ignazio",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Cassis, Ignazio",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Cassis, Ignazio",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Cassis, Ignazio",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Cassis, Ignazio",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Cassis, Ignazio",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Cassis, Ignazio",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Cassis, Ignazio",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Clottu, Raymond",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Clottu, Raymond",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Comte, Raphaël",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Comte, Raphaël",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Comte, Raphaël",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Comte, Raphaël",
+         "target": "Kultur, Sprache, Kirchen/Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Comte, Raphaël",
+         "target": "Energie"
+      },
+      {
+         "source": "Comte, Raphaël",
+         "target": "Energie"
+      },
+      {
+         "source": "Comte, Raphaël",
+         "target": "Föderativer Aufbau"
+      },
+      {
+         "source": "Comte, Raphaël",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Comte, Raphaël",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Comte, Raphaël",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Comte, Raphaël",
+         "target": "Föderativer Aufbau"
+      },
+      {
+         "source": "Cramer, Robert",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Cramer, Robert",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Cramer, Robert",
+         "target": "Energie"
+      },
+      {
+         "source": "Cramer, Robert",
+         "target": "Landesverteidigung"
+      },
+      {
+         "source": "Cramer, Robert",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Cramer, Robert",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Cramer, Robert",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Cramer, Robert",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "de Buman, Dominique",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "de Buman, Dominique",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "de Buman, Dominique",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "de Buman, Dominique",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "de Buman, Dominique",
+         "target": "Energie"
+      },
+      {
+         "source": "de Buman, Dominique",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "de Courten, Thomas",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "de Courten, Thomas",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "de Courten, Thomas",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "de Courten, Thomas",
+         "target": "Energie"
+      },
+      {
+         "source": "de Courten, Thomas",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "de Courten, Thomas",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "de Courten, Thomas",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "de Courten, Thomas",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "de Courten, Thomas",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "de Courten, Thomas",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "de Courten, Thomas",
+         "target": "Föderativer Aufbau"
+      },
+      {
+         "source": "de la Reussille, Denis",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "de la Reussille, Denis",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "de la Reussille, Denis",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Derder, Fathi",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Derder, Fathi",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Derder, Fathi",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Dettling, Marcel",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Dettling, Marcel",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Dittli, Josef",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Dittli, Josef",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Dittli, Josef",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Dittli, Josef",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Dittli, Josef",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Dittli, Josef",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Dittli, Josef",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Dittli, Josef",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Dittli, Josef",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Dittli, Josef",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Dittli, Josef",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Dittli, Josef",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Dobler, Marcel",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Dobler, Marcel",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Eichenberger-Walther, Corina",
+         "target": "Energie"
+      },
+      {
+         "source": "Eichenberger-Walther, Corina",
+         "target": "Medien"
+      },
+      {
+         "source": "Eichenberger-Walther, Corina",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Eichenberger-Walther, Corina",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Eichenberger-Walther, Corina",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Eichenberger-Walther, Corina",
+         "target": "Energie"
+      },
+      {
+         "source": "Eichenberger-Walther, Corina",
+         "target": "Aussenpolitik/Landesverteidigung"
+      },
+      {
+         "source": "Eichenberger-Walther, Corina",
+         "target": "Aussenpolitik/Landesverteidigung"
+      },
+      {
+         "source": "Eichenberger-Walther, Corina",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Eichenberger-Walther, Corina",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Eichenberger-Walther, Corina",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Eichenberger-Walther, Corina",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Eichenberger-Walther, Corina",
+         "target": "Energie"
+      },
+      {
+         "source": "Eichenberger-Walther, Corina",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Eichenberger-Walther, Corina",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Eichenberger-Walther, Corina",
+         "target": "Rechtsordnung"
+      },
+      {
+         "source": "Eichenberger-Walther, Corina",
+         "target": "Landesverteidigung"
+      },
+      {
+         "source": "Eichenberger-Walther, Corina",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Eichenberger-Walther, Corina",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Eichenberger-Walther, Corina",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Eichenberger-Walther, Corina",
+         "target": "Wirtschaftspolitik/Aussenpolitik"
+      },
+      {
+         "source": "Eichenberger-Walther, Corina",
+         "target": "Energie"
+      },
+      {
+         "source": "Engler, Stefan",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Engler, Stefan",
+         "target": "Energie"
+      },
+      {
+         "source": "Engler, Stefan",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Engler, Stefan",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Engler, Stefan",
+         "target": "Energie"
+      },
+      {
+         "source": "Engler, Stefan",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Engler, Stefan",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Engler, Stefan",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Engler, Stefan",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Engler, Stefan",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Estermann, Yvette",
+         "target": "Politische Grundfragen"
+      },
+      {
+         "source": "Estermann, Yvette",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Ettlin, Erich",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Ettlin, Erich",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Ettlin, Erich",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Ettlin, Erich",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Ettlin, Erich",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Ettlin, Erich",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Ettlin, Erich",
+         "target": "Föderativer Aufbau"
+      },
+      {
+         "source": "Ettlin, Erich",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Ettlin, Erich",
+         "target": "Energie"
+      },
+      {
+         "source": "Eymann, Christoph",
+         "target": "Energie"
+      },
+      {
+         "source": "Eymann, Christoph",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Fässler, Daniel",
+         "target": "Energie"
+      },
+      {
+         "source": "Fässler, Daniel",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Fässler, Daniel",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Fässler, Daniel",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Fässler, Daniel",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Fässler, Daniel",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Fässler, Daniel",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Fässler, Daniel",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Fässler, Daniel",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Fehlmann Rielle, Laurence",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Fehlmann Rielle, Laurence",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Feller, Olivier",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Feller, Olivier",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Feller, Olivier",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Feller, Olivier",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Feller, Olivier",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Feller, Olivier",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Feri, Yvonne",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Feri, Yvonne",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Feri, Yvonne",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Fetz, Anita",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Fetz, Anita",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Fetz, Anita",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Fetz, Anita",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Fetz, Anita",
+         "target": "Rechtsordnung"
+      },
+      {
+         "source": "Fiala, Doris",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Fiala, Doris",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Fiala, Doris",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Fiala, Doris",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Fiala, Doris",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Fiala, Doris",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Fiala, Doris",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Fiala, Doris",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Fiala, Doris",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Fiala, Doris",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Fiala, Doris",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Flach, Beat",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Flach, Beat",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Flach, Beat",
+         "target": "Energie"
+      },
+      {
+         "source": "Flach, Beat",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Flach, Beat",
+         "target": "Energie"
+      },
+      {
+         "source": "Flach, Beat",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Flückiger-Bäni, Sylvia",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Flückiger-Bäni, Sylvia",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Flückiger-Bäni, Sylvia",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Flückiger-Bäni, Sylvia",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Flückiger-Bäni, Sylvia",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Flückiger-Bäni, Sylvia",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Flückiger-Bäni, Sylvia",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Flückiger-Bäni, Sylvia",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Flückiger-Bäni, Sylvia",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Flückiger-Bäni, Sylvia",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Fluri, Kurt",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Fluri, Kurt",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Fluri, Kurt",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Fluri, Kurt",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Fluri, Kurt",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Fluri, Kurt",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Fluri, Kurt",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Fluri, Kurt",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Fluri, Kurt",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Fluri, Kurt",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Fluri, Kurt",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Fluri, Kurt",
+         "target": "Kultur, Sprache, Kirchen/Bildung und Forschung"
+      },
+      {
+         "source": "Fluri, Kurt",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Fluri, Kurt",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Fluri, Kurt",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Fluri, Kurt",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Fluri, Kurt",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Fluri, Kurt",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Fluri, Kurt",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Fluri, Kurt",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Fluri, Kurt",
+         "target": "Föderativer Aufbau"
+      },
+      {
+         "source": "Fluri, Kurt",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Fluri, Kurt",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Fluri, Kurt",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Fluri, Kurt",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Fluri, Kurt",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Fluri, Kurt",
+         "target": "Energie"
+      },
+      {
+         "source": "Fluri, Kurt",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Fluri, Kurt",
+         "target": "Energie"
+      },
+      {
+         "source": "Föhn, Peter",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Föhn, Peter",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Fournier, Jean-René",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Fournier, Jean-René",
+         "target": "Energie"
+      },
+      {
+         "source": "Fournier, Jean-René",
+         "target": "Energie"
+      },
+      {
+         "source": "Fournier, Jean-René",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Fournier, Jean-René",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Fournier, Jean-René",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Fournier, Jean-René",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Fournier, Jean-René",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Fournier, Jean-René",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Français, Olivier",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Français, Olivier",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Français, Olivier",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Français, Olivier",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Français, Olivier",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Français, Olivier",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Français, Olivier",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Français, Olivier",
+         "target": "Energie"
+      },
+      {
+         "source": "Français, Olivier",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Français, Olivier",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Français, Olivier",
+         "target": "Energie"
+      },
+      {
+         "source": "Français, Olivier",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Français, Olivier",
+         "target": "Energie"
+      },
+      {
+         "source": "Français, Olivier",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Français, Olivier",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Français, Olivier",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Français, Olivier",
+         "target": "Energie"
+      },
+      {
+         "source": "Frehner, Sebastian",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Frehner, Sebastian",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Frehner, Sebastian",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Frehner, Sebastian",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Frehner, Sebastian",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Frehner, Sebastian",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Frehner, Sebastian",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Frehner, Sebastian",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Frehner, Sebastian",
+         "target": "Energie"
+      },
+      {
+         "source": "Frehner, Sebastian",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Frehner, Sebastian",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Frehner, Sebastian",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Fricker, Jonas",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Fridez, Pierre-Alain",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Fridez, Pierre-Alain",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Fridez, Pierre-Alain",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Fridez, Pierre-Alain",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Fridez, Pierre-Alain",
+         "target": "Föderativer Aufbau"
+      },
+      {
+         "source": "Fridez, Pierre-Alain",
+         "target": "Bevölkerung und Arbeit"
+      },
+      {
+         "source": "Fridez, Pierre-Alain",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Friedl, Claudia",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Friedl, Claudia",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Friedl, Claudia",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Friedl, Claudia",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Friedl, Claudia",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Friedl, Claudia",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Friedl, Claudia",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Galladé, Chantal",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Galladé, Chantal",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Gasche, Urs",
+         "target": "Energie"
+      },
+      {
+         "source": "Gasche, Urs",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Gasche, Urs",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Gasche, Urs",
+         "target": "Kultur, Sprache, Kirche"
+      },
+      {
+         "source": "Gasche, Urs",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Geissbühler, Andrea Martina",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Geissbühler, Andrea Martina",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Genecand, Benoît",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Genecand, Benoît",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Genecand, Benoît",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Genecand, Benoît",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Genecand, Benoît",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Genecand, Benoît",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Germann, Hannes",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Germann, Hannes",
+         "target": "Energie"
+      },
+      {
+         "source": "Germann, Hannes",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Germann, Hannes",
+         "target": "Föderativer Aufbau"
+      },
+      {
+         "source": "Germann, Hannes",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Giezendanner, Ulrich",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Giezendanner, Ulrich",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Giezendanner, Ulrich",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Girod, Bastien",
+         "target": "Föderativer Aufbau"
+      },
+      {
+         "source": "Girod, Bastien",
+         "target": "Energie"
+      },
+      {
+         "source": "Glanzmann-Hunkeler, Ida",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Glanzmann-Hunkeler, Ida",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Glanzmann-Hunkeler, Ida",
+         "target": "Rechtsordnung"
+      },
+      {
+         "source": "Glanzmann-Hunkeler, Ida",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Glanzmann-Hunkeler, Ida",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Glanzmann-Hunkeler, Ida",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Glanzmann-Hunkeler, Ida",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Glarner, Andreas",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Glarner, Andreas",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Glarner, Andreas",
+         "target": "Politische Grundfragen"
+      },
+      {
+         "source": "Glarner, Andreas",
+         "target": "Öffentliche Finanzen"
+      },
+      {
+         "source": "Glarner, Andreas",
+         "target": "Rechtsordnung"
+      },
+      {
+         "source": "Glarner, Andreas",
+         "target": "Medien"
+      },
+      {
+         "source": "Glättli, Balthasar",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Glättli, Balthasar",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Glättli, Balthasar",
+         "target": "Bevölkerung und Arbeit"
+      },
+      {
+         "source": "Glättli, Balthasar",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Glättli, Balthasar",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Glauser-Zufferey, Alice",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Glauser-Zufferey, Alice",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Gmür, Alois",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Gmür, Alois",
+         "target": "Medien"
+      },
+      {
+         "source": "Gmür, Alois",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Gmür, Alois",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Gmür-Schönenberger, Andrea",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Gmür-Schönenberger, Andrea",
+         "target": "Bevölkerung und Arbeit"
+      },
+      {
+         "source": "Gmür-Schönenberger, Andrea",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Gmür-Schönenberger, Andrea",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Gmür-Schönenberger, Andrea",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Golay, Roger",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Golay, Roger",
+         "target": "Rechtsordnung"
+      },
+      {
+         "source": "Golay, Roger",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Golay, Roger",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Gössi, Petra",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Gössi, Petra",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Gössi, Petra",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Graber, Konrad",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Graber, Konrad",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Graber, Konrad",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Graber, Konrad",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Graber, Konrad",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Graf, Maya",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Graf, Maya",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Graf, Maya",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Graf, Maya",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Graf, Maya",
+         "target": "Energie"
+      },
+      {
+         "source": "Graf-Litscher, Edith",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Graf-Litscher, Edith",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Graf-Litscher, Edith",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Graf-Litscher, Edith",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Grossen, Jürg",
+         "target": "Energie"
+      },
+      {
+         "source": "Grossen, Jürg",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Grossen, Jürg",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Grossen, Jürg",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Grunder, Hans",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Grunder, Hans",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Grunder, Hans",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Grüter, Franz",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Grüter, Franz",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Grüter, Franz",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Grüter, Franz",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Grüter, Franz",
+         "target": "Bevölkerung und Arbeit"
+      },
+      {
+         "source": "Grüter, Franz",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Grüter, Franz",
+         "target": "Energie"
+      },
+      {
+         "source": "Grüter, Franz",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Grüter, Franz",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Gschwind, Jean-Paul",
+         "target": "Energie"
+      },
+      {
+         "source": "Guhl, Bernhard",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Guhl, Bernhard",
+         "target": "Energie"
+      },
+      {
+         "source": "Guhl, Bernhard",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Guhl, Bernhard",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Gysi, Barbara",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Gysi, Barbara",
+         "target": "Bevölkerung und Arbeit"
+      },
+      {
+         "source": "Gysi, Barbara",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Gysi, Barbara",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Gysi, Barbara",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Gysi, Barbara",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Gysi, Barbara",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Häberli-Koller, Brigitte",
+         "target": "Medien"
+      },
+      {
+         "source": "Häberli-Koller, Brigitte",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Häberli-Koller, Brigitte",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Häberli-Koller, Brigitte",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Häberli-Koller, Brigitte",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Häberli-Koller, Brigitte",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Häberli-Koller, Brigitte",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Häberli-Koller, Brigitte",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Hadorn, Philipp",
+         "target": "Energie"
+      },
+      {
+         "source": "Hadorn, Philipp",
+         "target": "Bevölkerung und Arbeit"
+      },
+      {
+         "source": "Hadorn, Philipp",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Hadorn, Philipp",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Hadorn, Philipp",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Hardegger, Thomas",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Hardegger, Thomas",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Hardegger, Thomas",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Hardegger, Thomas",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Hardegger, Thomas",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Hardegger, Thomas",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Hardegger, Thomas",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Hardegger, Thomas",
+         "target": "Föderativer Aufbau"
+      },
+      {
+         "source": "Häsler, Christine",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Häsler, Christine",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Häsler, Christine",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Häsler, Christine",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Häsler, Christine",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Häsler, Christine",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Häsler, Christine",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Hausammann, Markus",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Hêche, Claude",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Hêche, Claude",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Heer, Alfred",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Heer, Alfred",
+         "target": "Öffentliche Finanzen"
+      },
+      {
+         "source": "Hefti, Thomas",
+         "target": "Energie"
+      },
+      {
+         "source": "Hefti, Thomas",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Hefti, Thomas",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Hefti, Thomas",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Hefti, Thomas",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Hefti, Thomas",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Hefti, Thomas",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Hefti, Thomas",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Hegglin, Peter",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Heim, Bea",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Heim, Bea",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Heim, Bea",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Heim, Bea",
+         "target": "Bevölkerung und Arbeit"
+      },
+      {
+         "source": "Heim, Bea",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Heim, Bea",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Heim, Bea",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Heim, Bea",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Heim, Bea",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Herzog, Verena",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Herzog, Verena",
+         "target": "Rechtsordnung"
+      },
+      {
+         "source": "Herzog, Verena",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Herzog, Verena",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Herzog, Verena",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Herzog, Verena",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Herzog, Verena",
+         "target": "Energie"
+      },
+      {
+         "source": "Herzog, Verena",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Herzog, Verena",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Herzog, Verena",
+         "target": "Politische Grundfragen"
+      },
+      {
+         "source": "Hess, Erich",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Hess, Erich",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Hess, Hermann",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Hess, Hermann",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Hess, Hermann",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Hess, Lorenz",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Hess, Lorenz",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Hess, Lorenz",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Hiltpold, Hugues",
+         "target": "Rechtsordnung"
+      },
+      {
+         "source": "Hiltpold, Hugues",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Hösli, Werner",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Hösli, Werner",
+         "target": "Energie"
+      },
+      {
+         "source": "Humbel, Ruth",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Humbel, Ruth",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Humbel, Ruth",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Humbel, Ruth",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Hurter, Thomas",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Hurter, Thomas",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Hurter, Thomas",
+         "target": "Landesverteidigung"
+      },
+      {
+         "source": "Imark, Christian",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Imark, Christian",
+         "target": "Energie"
+      },
+      {
+         "source": "Imark, Christian",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Imark, Christian",
+         "target": "Politische Grundfragen"
+      },
+      {
+         "source": "Ingold, Maja",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Ingold, Maja",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Ingold, Maja",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Janiak, Claude",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Janiak, Claude",
+         "target": "Medien"
+      },
+      {
+         "source": "Janiak, Claude",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Janiak, Claude",
+         "target": "Institutionen und Volksrechte"
+      },
+      {
+         "source": "Jans, Beat",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Jans, Beat",
+         "target": "Bevölkerung und Arbeit"
+      },
+      {
+         "source": "Jans, Beat",
+         "target": "Medien"
+      },
+      {
+         "source": "Jans, Beat",
+         "target": "Energie"
+      },
+      {
+         "source": "Jauslin, Matthias Samuel",
+         "target": "Energie"
+      },
+      {
+         "source": "Jauslin, Matthias Samuel",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Jauslin, Matthias Samuel",
+         "target": "Energie"
+      },
+      {
+         "source": "Jauslin, Matthias Samuel",
+         "target": "Politische Grundfragen"
+      },
+      {
+         "source": "Jositsch, Daniel",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Jositsch, Daniel",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Jositsch, Daniel",
+         "target": "Rechtsordnung"
+      },
+      {
+         "source": "Jositsch, Daniel",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Jositsch, Daniel",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Jositsch, Daniel",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Jositsch, Daniel",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Jositsch, Daniel",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Keller, Peter",
+         "target": "Medien"
+      },
+      {
+         "source": "Keller, Peter",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Keller-Inhelder, Barbara",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Keller-Inhelder, Barbara",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Keller-Inhelder, Barbara",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Keller-Inhelder, Barbara",
+         "target": "Energie"
+      },
+      {
+         "source": "Keller-Sutter, Karin",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Keller-Sutter, Karin",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Keller-Sutter, Karin",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Keller-Sutter, Karin",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Keller-Sutter, Karin",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Keller-Sutter, Karin",
+         "target": "Bevölkerung und Arbeit"
+      },
+      {
+         "source": "Kiener Nellen, Margret",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Kiener Nellen, Margret",
+         "target": "Rechtsordnung"
+      },
+      {
+         "source": "Kiener Nellen, Margret",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Kiener Nellen, Margret",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Knecht, Hansjörg",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Knecht, Hansjörg",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Knecht, Hansjörg",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Köppel, Roger",
+         "target": "Medien"
+      },
+      {
+         "source": "Köppel, Roger",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Kuprecht, Alex",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Kuprecht, Alex",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Kuprecht, Alex",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Landolt, Martin",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Landolt, Martin",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Landolt, Martin",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Landolt, Martin",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Landolt, Martin",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Landolt, Martin",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Landolt, Martin",
+         "target": "Energie"
+      },
+      {
+         "source": "Landolt, Martin",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Leutenegger Oberholzer, Susanne",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Leutenegger Oberholzer, Susanne",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Leutenegger Oberholzer, Susanne",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Leutenegger Oberholzer, Susanne",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Leutenegger Oberholzer, Susanne",
+         "target": "Medien"
+      },
+      {
+         "source": "Leutenegger Oberholzer, Susanne",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Levrat, Christian",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Levrat, Christian",
+         "target": "Bevölkerung und Arbeit"
+      },
+      {
+         "source": "Lohr, Christian",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Lombardi, Filippo",
+         "target": "Medien"
+      },
+      {
+         "source": "Lombardi, Filippo",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Lombardi, Filippo",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Lombardi, Filippo",
+         "target": "Energie"
+      },
+      {
+         "source": "Lombardi, Filippo",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Lombardi, Filippo",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Lombardi, Filippo",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Lombardi, Filippo",
+         "target": "Werbung"
+      },
+      {
+         "source": "Lombardi, Filippo",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Luginbühl, Werner",
+         "target": "Energie"
+      },
+      {
+         "source": "Luginbühl, Werner",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Luginbühl, Werner",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Luginbühl, Werner",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Luginbühl, Werner",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Luginbühl, Werner",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Luginbühl, Werner",
+         "target": "Föderativer Aufbau"
+      },
+      {
+         "source": "Luginbühl, Werner",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Luginbühl, Werner",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Luginbühl, Werner",
+         "target": "Bevölkerung und Arbeit"
+      },
+      {
+         "source": "Luginbühl, Werner",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Lüscher, Christian",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Lüscher, Christian",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Lüscher, Christian",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Maire, Jacques-André",
+         "target": "Energie"
+      },
+      {
+         "source": "Maire, Jacques-André",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Maire, Jacques-André",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Maire, Jacques-André",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Maire, Jacques-André",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Maire, Jacques-André",
+         "target": "Bevölkerung und Arbeit"
+      },
+      {
+         "source": "Maire, Jacques-André",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Marchand-Balet, Géraldine",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Marchand-Balet, Géraldine",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Markwalder, Christa",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Markwalder, Christa",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Markwalder, Christa",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Marra, Ada",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Marti, Min Li",
+         "target": "Energie"
+      },
+      {
+         "source": "Marti, Min Li",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Marti, Min Li",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Martullo-Blocher, Magdalena",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Masshardt, Nadine",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Masshardt, Nadine",
+         "target": "Energie"
+      },
+      {
+         "source": "Matter, Thomas",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Matter, Thomas",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Matter, Thomas",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Matter, Thomas",
+         "target": "Rechtsordnung"
+      },
+      {
+         "source": "Maury Pasquier, Liliane",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Maury Pasquier, Liliane",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Maury Pasquier, Liliane",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Maury Pasquier, Liliane",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Maury Pasquier, Liliane",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Mazzone, Lisa",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Merlini, Giovanni",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Merlini, Giovanni",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Merlini, Giovanni",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Merlini, Giovanni",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Merlini, Giovanni",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Merlini, Giovanni",
+         "target": "Politische Grundfragen"
+      },
+      {
+         "source": "Merlini, Giovanni",
+         "target": "Rechtsordnung"
+      },
+      {
+         "source": "Meyer, Mattea",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Meyer, Mattea",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Minder, Thomas",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Moret, Isabelle",
+         "target": "Energie"
+      },
+      {
+         "source": "Moret, Isabelle",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Moret, Isabelle",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Moret, Isabelle",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Moser, Tiana Angelina",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Moser, Tiana Angelina",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Moser, Tiana Angelina",
+         "target": "Energie"
+      },
+      {
+         "source": "Müller, Damian",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Müller, Damian",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Müller, Damian",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Müller, Leo",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Müller, Leo",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Müller, Leo",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Müller, Leo",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Müller, Philipp",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Müller, Thomas",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Müller, Thomas",
+         "target": "Energie"
+      },
+      {
+         "source": "Müller, Thomas",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Müller, Thomas",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Müller, Thomas",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Müller, Thomas",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Müller, Walter",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Müller, Walter",
+         "target": "Bevölkerung und Arbeit"
+      },
+      {
+         "source": "Müller, Walter",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Müller, Walter",
+         "target": "Rechtsordnung"
+      },
+      {
+         "source": "Müller, Walter",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Müller, Walter",
+         "target": "Landesverteidigung"
+      },
+      {
+         "source": "Müller-Altermatt, Stefan",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Müller-Altermatt, Stefan",
+         "target": "Energie"
+      },
+      {
+         "source": "Munz, Martina",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Munz, Martina",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Munz, Martina",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Müri, Felix",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Müri, Felix",
+         "target": "Landesverteidigung"
+      },
+      {
+         "source": "Müri, Felix",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Müri, Felix",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Naef, Martin",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Naef, Martin",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Naef, Martin",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Naef, Martin",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Nantermod, Philippe",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Nantermod, Philippe",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Nantermod, Philippe",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Nidegger, Yves",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Nidegger, Yves",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Nordmann, Roger",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Nordmann, Roger",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Nordmann, Roger",
+         "target": "Energie"
+      },
+      {
+         "source": "Nordmann, Roger",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Noser, Ruedi",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Noser, Ruedi",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Noser, Ruedi",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Noser, Ruedi",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Noser, Ruedi",
+         "target": "Medien"
+      },
+      {
+         "source": "Noser, Ruedi",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Noser, Ruedi",
+         "target": "Energie"
+      },
+      {
+         "source": "Nussbaumer, Eric",
+         "target": "Energie"
+      },
+      {
+         "source": "Nussbaumer, Eric",
+         "target": "Energie"
+      },
+      {
+         "source": "Nussbaumer, Eric",
+         "target": "Energie"
+      },
+      {
+         "source": "Nussbaumer, Eric",
+         "target": "Energie"
+      },
+      {
+         "source": "Nussbaumer, Eric",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Nussbaumer, Eric",
+         "target": "Energie"
+      },
+      {
+         "source": "Page, Pierre-André",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Page, Pierre-André",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Page, Pierre-André",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Pantani, Roberta",
+         "target": "Energie"
+      },
+      {
+         "source": "Pantani, Roberta",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Pantani, Roberta",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Pardini, Corrado",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Pardini, Corrado",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Pardini, Corrado",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Pardini, Corrado",
+         "target": "Bevölkerung und Arbeit"
+      },
+      {
+         "source": "Pardini, Corrado",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Pardini, Corrado",
+         "target": "Bevölkerung und Arbeit"
+      },
+      {
+         "source": "Pardini, Corrado",
+         "target": "Bevölkerung und Arbeit"
+      },
+      {
+         "source": "Pezzatti, Bruno",
+         "target": "Energie"
+      },
+      {
+         "source": "Pezzatti, Bruno",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Pezzatti, Bruno",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Pezzatti, Bruno",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Pezzatti, Bruno",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Pezzatti, Bruno",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Pezzatti, Bruno",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Pezzatti, Bruno",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Pezzatti, Bruno",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Pezzatti, Bruno",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Pezzatti, Bruno",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Pezzatti, Bruno",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Pezzatti, Bruno",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Pezzatti, Bruno",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Pezzatti, Bruno",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Pezzatti, Bruno",
+         "target": "Politische Grundfragen"
+      },
+      {
+         "source": "Pezzatti, Bruno",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Pfister, Gerhard",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Pfister, Gerhard",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Pfister, Gerhard",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Pfister, Gerhard",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Pfister, Gerhard",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Pfister, Gerhard",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Pfister, Gerhard",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Pfister, Gerhard",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Pfister, Gerhard",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Pfister, Gerhard",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Pfister, Gerhard",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Pfister, Gerhard",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Pfister, Gerhard",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Pfister, Gerhard",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Pfister, Gerhard",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Pfister, Gerhard",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Pfister, Gerhard",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Pfister, Gerhard",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Pfister, Gerhard",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Pfister, Gerhard",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Pfister, Gerhard",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Pieren, Nadja",
+         "target": "Medien"
+      },
+      {
+         "source": "Pieren, Nadja",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Pieren, Nadja",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Piller Carrard, Valérie",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Piller Carrard, Valérie",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Portmann, Hans-Peter",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Portmann, Hans-Peter",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Portmann, Hans-Peter",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Portmann, Hans-Peter",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Quadranti, Rosmarie",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Quadranti, Rosmarie",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Quadranti, Rosmarie",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Quadranti, Rosmarie",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Quadranti, Rosmarie",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Quadranti, Rosmarie",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Quadranti, Rosmarie",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Quadranti, Rosmarie",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Quadranti, Rosmarie",
+         "target": "Energie"
+      },
+      {
+         "source": "Quadranti, Rosmarie",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Quadranti, Rosmarie",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Quadranti, Rosmarie",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Quadranti, Rosmarie",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Quadranti, Rosmarie",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Quadranti, Rosmarie",
+         "target": "Rechtsordnung"
+      },
+      {
+         "source": "Quadranti, Rosmarie",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Quadri, Lorenzo",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Quadri, Lorenzo",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Quadri, Lorenzo",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Quadri, Lorenzo",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Rechsteiner, Paul",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Rechsteiner, Paul",
+         "target": "Bevölkerung und Arbeit"
+      },
+      {
+         "source": "Regazzi, Fabio",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Regazzi, Fabio",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Regazzi, Fabio",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Regazzi, Fabio",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Regazzi, Fabio",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Regazzi, Fabio",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Regazzi, Fabio",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Regazzi, Fabio",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Regazzi, Fabio",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Regazzi, Fabio",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Regazzi, Fabio",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Regazzi, Fabio",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Regazzi, Fabio",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Regazzi, Fabio",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Regazzi, Fabio",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Regazzi, Fabio",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Regazzi, Fabio",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Regazzi, Fabio",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Regazzi, Fabio",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Regazzi, Fabio",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Regazzi, Fabio",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Reimann, Lukas",
+         "target": "Medien"
+      },
+      {
+         "source": "Reimann, Lukas",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Reimann, Lukas",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Reimann, Lukas",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Reimann, Lukas",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Reimann, Lukas",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Reimann, Maximilian",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Reimann, Maximilian",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Reimann, Maximilian",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Reimann, Maximilian",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Reimann, Maximilian",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Reimann, Maximilian",
+         "target": "Energie"
+      },
+      {
+         "source": "Reynard, Mathias",
+         "target": "Medien"
+      },
+      {
+         "source": "Reynard, Mathias",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Reynard, Mathias",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Reynard, Mathias",
+         "target": "Bevölkerung und Arbeit"
+      },
+      {
+         "source": "Reynard, Mathias",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Reynard, Mathias",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Reynard, Mathias",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Reynard, Mathias",
+         "target": "Energie"
+      },
+      {
+         "source": "Rickli, Natalie",
+         "target": "Medien"
+      },
+      {
+         "source": "Rickli, Natalie",
+         "target": "Medien"
+      },
+      {
+         "source": "Rieder, Beat",
+         "target": "Energie"
+      },
+      {
+         "source": "Rieder, Beat",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Rieder, Beat",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Rieder, Beat",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Rieder, Beat",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Rieder, Beat",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Rieder, Beat",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Rieder, Beat",
+         "target": "Föderativer Aufbau"
+      },
+      {
+         "source": "Riklin, Kathy",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Riklin, Kathy",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Riklin, Kathy",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Riklin, Kathy",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Riklin, Kathy",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Riklin, Kathy",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Riklin, Kathy",
+         "target": "Energie"
+      },
+      {
+         "source": "Riklin, Kathy",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Riklin, Kathy",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Riklin, Kathy",
+         "target": "Energie"
+      },
+      {
+         "source": "Riklin, Kathy",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Riklin, Kathy",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Riklin, Kathy",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Riklin, Kathy",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Riklin, Kathy",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Rime, Jean-François",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Rime, Jean-François",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Rime, Jean-François",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Rime, Jean-François",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Rime, Jean-François",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Rime, Jean-François",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Rime, Jean-François",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Rime, Jean-François",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Rime, Jean-François",
+         "target": "Landesverteidigung"
+      },
+      {
+         "source": "Ritter, Markus",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Ritter, Markus",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Ritter, Markus",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Romano, Marco",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Romano, Marco",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Romano, Marco",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Romano, Marco",
+         "target": "Medien"
+      },
+      {
+         "source": "Romano, Marco",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Romano, Marco",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Rösti, Albert",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Rösti, Albert",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Rösti, Albert",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Rösti, Albert",
+         "target": "Politische Grundfragen"
+      },
+      {
+         "source": "Rösti, Albert",
+         "target": "Energie"
+      },
+      {
+         "source": "Rösti, Albert",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Rösti, Albert",
+         "target": "Politische Grundfragen"
+      },
+      {
+         "source": "Rösti, Albert",
+         "target": "Energie"
+      },
+      {
+         "source": "Ruiz, Rebecca Ana",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Ruiz, Rebecca Ana",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Ruiz, Rebecca Ana",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Ruiz, Rebecca Ana",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Ruiz, Rebecca Ana",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Ruiz, Rebecca Ana",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Ruiz, Rebecca Ana",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Ruiz, Rebecca Ana",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Ruppen, Franz",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Ruppen, Franz",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Ruppen, Franz",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Ruppen, Franz",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Ruppen, Franz",
+         "target": "Bevölkerung und Arbeit"
+      },
+      {
+         "source": "Ruppen, Franz",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Ruppen, Franz",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Rutz, Gregor",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Rutz, Gregor",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Rutz, Gregor",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Rutz, Gregor",
+         "target": "Medien"
+      },
+      {
+         "source": "Rutz, Gregor",
+         "target": "Rechtsordnung"
+      },
+      {
+         "source": "Rutz, Gregor",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Rutz, Gregor",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Rutz, Gregor",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Rutz, Gregor",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Rytz, Regula",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Rytz, Regula",
+         "target": "Föderativer Aufbau"
+      },
+      {
+         "source": "Rytz, Regula",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Rytz, Regula",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Rytz, Regula",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Rytz, Regula",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Salzmann, Werner",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Salzmann, Werner",
+         "target": "Politische Grundfragen"
+      },
+      {
+         "source": "Salzmann, Werner",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Salzmann, Werner",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Salzmann, Werner",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Salzmann, Werner",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Salzmann, Werner",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Salzmann, Werner",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Salzmann, Werner",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Salzmann, Werner",
+         "target": "Landesverteidigung"
+      },
+      {
+         "source": "Salzmann, Werner",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Salzmann, Werner",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Salzmann, Werner",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Sauter, Regine",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Sauter, Regine",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Savary, Géraldine",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Savary, Géraldine",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Savary, Géraldine",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Savary, Géraldine",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Savary, Géraldine",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Savary, Géraldine",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Savary, Géraldine",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Savary, Géraldine",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Savary, Géraldine",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Savary, Géraldine",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Schelbert, Louis",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Schelbert, Louis",
+         "target": "Bevölkerung und Arbeit"
+      },
+      {
+         "source": "Schelbert, Louis",
+         "target": "Bevölkerung und Arbeit"
+      },
+      {
+         "source": "Schelbert, Louis",
+         "target": "Bevölkerung und Arbeit/Soziale Gruppen"
+      },
+      {
+         "source": "Schelbert, Louis",
+         "target": "Energie"
+      },
+      {
+         "source": "Schenker, Silvia",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Schenker, Silvia",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Schenker, Silvia",
+         "target": "Bevölkerung und Arbeit"
+      },
+      {
+         "source": "Schenker, Silvia",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Schilliger, Peter",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Schilliger, Peter",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Schilliger, Peter",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Schilliger, Peter",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Schilliger, Peter",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Schilliger, Peter",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Schilliger, Peter",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Schilliger, Peter",
+         "target": "Bevölkerung und Arbeit"
+      },
+      {
+         "source": "Schilliger, Peter",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Schilliger, Peter",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Schilliger, Peter",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Schilliger, Peter",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Schilliger, Peter",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Schilliger, Peter",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Schilliger, Peter",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Schilliger, Peter",
+         "target": "Energie"
+      },
+      {
+         "source": "Schilliger, Peter",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Schilliger, Peter",
+         "target": "Bevölkerung und Arbeit"
+      },
+      {
+         "source": "Schilliger, Peter",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Schilliger, Peter",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Schilliger, Peter",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Schilliger, Peter",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Schilliger, Peter",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Schilliger, Peter",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Schilliger, Peter",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Schmid-Federer, Barbara",
+         "target": "Medien"
+      },
+      {
+         "source": "Schmid-Federer, Barbara",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Schmid-Federer, Barbara",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Schmid-Federer, Barbara",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Schmid-Federer, Barbara",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Schmid-Federer, Barbara",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Schmid-Federer, Barbara",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Schmid-Federer, Barbara",
+         "target": "Energie"
+      },
+      {
+         "source": "Schmid-Federer, Barbara",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Schmid-Federer, Barbara",
+         "target": "Rechtsordnung"
+      },
+      {
+         "source": "Schmid-Federer, Barbara",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Schmid-Federer, Barbara",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Schmid-Federer, Barbara",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Schmid-Federer, Barbara",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Schmid-Federer, Barbara",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Schmid-Federer, Barbara",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Schmid, Martin",
+         "target": "Energie"
+      },
+      {
+         "source": "Schmid, Martin",
+         "target": "Energie"
+      },
+      {
+         "source": "Schmid, Martin",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Schmid, Martin",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Schmid, Martin",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Schmid, Martin",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Schmid, Martin",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Schmid, Martin",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Schmid, Martin",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Schmid, Martin",
+         "target": "Energie"
+      },
+      {
+         "source": "Schmid, Martin",
+         "target": "Energie"
+      },
+      {
+         "source": "Schmid, Martin",
+         "target": "Energie"
+      },
+      {
+         "source": "Schmid, Martin",
+         "target": "Energie"
+      },
+      {
+         "source": "Schmid, Martin",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Schmid, Martin",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Schmid, Martin",
+         "target": "Energie"
+      },
+      {
+         "source": "Schmid, Martin",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Schmid, Martin",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Schmid, Martin",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Schmid, Martin",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Schmid, Martin",
+         "target": "Energie"
+      },
+      {
+         "source": "Schmid, Martin",
+         "target": "Energie"
+      },
+      {
+         "source": "Schmid, Martin",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Schmid, Martin",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Schmid, Martin",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Schmidt, Roberto",
+         "target": "Energie"
+      },
+      {
+         "source": "Schmidt, Roberto",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Schmidt, Roberto",
+         "target": "Energie"
+      },
+      {
+         "source": "Schmidt, Roberto",
+         "target": "Energie"
+      },
+      {
+         "source": "Schmidt, Roberto",
+         "target": "Energie"
+      },
+      {
+         "source": "Schmidt, Roberto",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Schmidt, Roberto",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Schmidt, Roberto",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Schmidt, Roberto",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Schmidt, Roberto",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Schneeberger, Daniela",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Schneeberger, Daniela",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Schneeberger, Daniela",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Schneeberger, Daniela",
+         "target": "Öffentliche Finanzen"
+      },
+      {
+         "source": "Schneeberger, Daniela",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Schneeberger, Daniela",
+         "target": "treuhand"
+      },
+      {
+         "source": "Schneeberger, Daniela",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Schneeberger, Daniela",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Schneeberger, Daniela",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Schneeberger, Daniela",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Schneider-Schneiter, Elisabeth",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Schneider-Schneiter, Elisabeth",
+         "target": "Energie"
+      },
+      {
+         "source": "Schneider-Schneiter, Elisabeth",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Schneider-Schneiter, Elisabeth",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Schneider-Schneiter, Elisabeth",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Schneider-Schneiter, Elisabeth",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Schneider-Schneiter, Elisabeth",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Schneider-Schneiter, Elisabeth",
+         "target": "Föderativer Aufbau"
+      },
+      {
+         "source": "Schneider-Schneiter, Elisabeth",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Schneider-Schneiter, Elisabeth",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Schwaab, Jean Christophe",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Schwaab, Jean Christophe",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Schwaab, Jean Christophe",
+         "target": "Bevölkerung und Arbeit"
+      },
+      {
+         "source": "Schwaab, Jean Christophe",
+         "target": "Bevölkerung und Arbeit"
+      },
+      {
+         "source": "Schwaab, Jean Christophe",
+         "target": "Bevölkerung und Arbeit"
+      },
+      {
+         "source": "Schwaab, Jean Christophe",
+         "target": "Bevölkerung und Arbeit"
+      },
+      {
+         "source": "Schwander, Pirmin",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Schwander, Pirmin",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Schwander, Pirmin",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Seiler Graf, Priska",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Seiler Graf, Priska",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Semadeni, Silva",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Semadeni, Silva",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Semadeni, Silva",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Semadeni, Silva",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Semadeni, Silva",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Semadeni, Silva",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Semadeni, Silva",
+         "target": "Energie"
+      },
+      {
+         "source": "Semadeni, Silva",
+         "target": "Energie"
+      },
+      {
+         "source": "Seydoux-Christe, Anne",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Seydoux-Christe, Anne",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Seydoux-Christe, Anne",
+         "target": "Medien"
+      },
+      {
+         "source": "Seydoux-Christe, Anne",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Seydoux-Christe, Anne",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Seydoux-Christe, Anne",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Seydoux-Christe, Anne",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Seydoux-Christe, Anne",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Seydoux-Christe, Anne",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Seydoux-Christe, Anne",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Seydoux-Christe, Anne",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Seydoux-Christe, Anne",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Seydoux-Christe, Anne",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Seydoux-Christe, Anne",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Sollberger, Sandra",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Sollberger, Sandra",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Sommaruga, Carlo",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Sommaruga, Carlo",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Sommaruga, Carlo",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Sommaruga, Carlo",
+         "target": "Rechtsordnung"
+      },
+      {
+         "source": "Sommaruga, Carlo",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Sommaruga, Carlo",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Sommaruga, Carlo",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Sommaruga, Carlo",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Stahl, Jürg",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Stahl, Jürg",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Stahl, Jürg",
+         "target": "Politische Grundfragen"
+      },
+      {
+         "source": "Stahl, Jürg",
+         "target": "Wirtschaftspolitik/Rechtsordnung"
+      },
+      {
+         "source": "Stahl, Jürg",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Stahl, Jürg",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Stahl, Jürg",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Stahl, Jürg",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Stahl, Jürg",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Stamm, Luzi",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Stamm, Luzi",
+         "target": "Medien"
+      },
+      {
+         "source": "Steiert, Jean-François",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Steiert, Jean-François",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Steiert, Jean-François",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Steiert, Jean-François",
+         "target": "Politische Grundfragen"
+      },
+      {
+         "source": "Steiert, Jean-François",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Steiert, Jean-François",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Steiert, Jean-François",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Steiert, Jean-François",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Steiert, Jean-François",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Steiert, Jean-François",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Steiert, Jean-François",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Steiert, Jean-François",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Steiert, Jean-François",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Steiert, Jean-François",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Steiert, Jean-François",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Steiert, Jean-François",
+         "target": "Kultur, Sprache, Kirchen/Bildung und Forschung"
+      },
+      {
+         "source": "Steiert, Jean-François",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Steiert, Jean-François",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Steiert, Jean-François",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Steiert, Jean-François",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Steiert, Jean-François",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Steiert, Jean-François",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Steiert, Jean-François",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Steiert, Jean-François",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Steiert, Jean-François",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Steiert, Jean-François",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Steiert, Jean-François",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Steiert, Jean-François",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Steinemann, Barbara",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Stöckli, Hans",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Stöckli, Hans",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Stöckli, Hans",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Stöckli, Hans",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Stöckli, Hans",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Stöckli, Hans",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Stöckli, Hans",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Stöckli, Hans",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Stöckli, Hans",
+         "target": "Politische Grundfragen"
+      },
+      {
+         "source": "Stöckli, Hans",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Stöckli, Hans",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Stöckli, Hans",
+         "target": "Institutionen und Volksrechte"
+      },
+      {
+         "source": "Stöckli, Hans",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Stöckli, Hans",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Stöckli, Hans",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Streiff-Feller, Marianne",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Streiff-Feller, Marianne",
+         "target": "Bevölkerung und Arbeit"
+      },
+      {
+         "source": "Streiff-Feller, Marianne",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Streiff-Feller, Marianne",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Streiff-Feller, Marianne",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Streiff-Feller, Marianne",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Thorens Goumaz, Adèle",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Thorens Goumaz, Adèle",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Thorens Goumaz, Adèle",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Thorens Goumaz, Adèle",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Tornare, Manuel",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Tornare, Manuel",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Tornare, Manuel",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Tornare, Manuel",
+         "target": "Bildung und Forschung/Aussenpolitik"
+      },
+      {
+         "source": "Tornare, Manuel",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Tornare, Manuel",
+         "target": "Landesverteidigung"
+      },
+      {
+         "source": "Tschäppät, Alexander",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Tschäppät, Alexander",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Tschäppät, Alexander",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Tschäppät, Alexander",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Tschäppät, Alexander",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Tschäppät, Alexander",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Tschäppät, Alexander",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Tschäppät, Alexander",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Tschäppät, Alexander",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Tschäppät, Alexander",
+         "target": "Föderativer Aufbau"
+      },
+      {
+         "source": "Tschäppät, Alexander",
+         "target": "Föderativer Aufbau"
+      },
+      {
+         "source": "Tschäppät, Alexander",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Tuena, Mauro",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Vitali, Albert",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Vitali, Albert",
+         "target": "Energie"
+      },
+      {
+         "source": "Vitali, Albert",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Vitali, Albert",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Vitali, Albert",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Vitali, Albert",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Vitali, Albert",
+         "target": "Politische Grundfragen"
+      },
+      {
+         "source": "Vitali, Albert",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Vogler, Karl",
+         "target": "Rechtsordnung"
+      },
+      {
+         "source": "Vogler, Karl",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Vogler, Karl",
+         "target": "Energie"
+      },
+      {
+         "source": "Vogler, Karl",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Vogler, Karl",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Vogt, Hans-Ueli",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Vogt, Hans-Ueli",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "von Siebenthal, Erich",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "von Siebenthal, Erich",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "von Siebenthal, Erich",
+         "target": "Energie"
+      },
+      {
+         "source": "von Siebenthal, Erich",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "von Siebenthal, Erich",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "von Siebenthal, Erich",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "von Siebenthal, Erich",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Vonlanthen, Beat",
+         "target": "Energie"
+      },
+      {
+         "source": "Vonlanthen, Beat",
+         "target": "Energie"
+      },
+      {
+         "source": "Vonlanthen, Beat",
+         "target": "Energie"
+      },
+      {
+         "source": "Vonlanthen, Beat",
+         "target": "Föderativer Aufbau"
+      },
+      {
+         "source": "Vonlanthen, Beat",
+         "target": "Föderativer Aufbau"
+      },
+      {
+         "source": "Vonlanthen, Beat",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Vonlanthen, Beat",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Vonlanthen, Beat",
+         "target": "Föderativer Aufbau"
+      },
+      {
+         "source": "Walliser, Bruno",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Walliser, Bruno",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Walliser, Bruno",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Walliser, Bruno",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Walliser, Bruno",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Walliser, Bruno",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Walliser, Bruno",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Walter, Hansjörg",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Walter, Hansjörg",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Walter, Hansjörg",
+         "target": "Medien"
+      },
+      {
+         "source": "Walter, Hansjörg",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Walter, Hansjörg",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Walter, Hansjörg",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Walter, Hansjörg",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Walter, Hansjörg",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Walter, Hansjörg",
+         "target": "Medien"
+      },
+      {
+         "source": "Walter, Hansjörg",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Walter, Hansjörg",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Walter, Hansjörg",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Walter, Hansjörg",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Walter, Hansjörg",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Walter, Hansjörg",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Walter, Hansjörg",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Walter, Hansjörg",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Walti, Beat",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Walti, Beat",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Walti, Beat",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Walti, Beat",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Walti, Beat",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Walti, Beat",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Walti, Beat",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Walti, Beat",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Walti, Beat",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Walti, Beat",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Walti, Beat",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Walti, Beat",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Wasserfallen, Christian",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Wasserfallen, Christian",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Wasserfallen, Christian",
+         "target": "Medien"
+      },
+      {
+         "source": "Wasserfallen, Christian",
+         "target": "Energie"
+      },
+      {
+         "source": "Wasserfallen, Christian",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Wasserfallen, Christian",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Wasserfallen, Christian",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Wasserfallen, Christian",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Wasserfallen, Christian",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Wasserfallen, Christian",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Wasserfallen, Christian",
+         "target": "Medien"
+      },
+      {
+         "source": "Wehrli, Laurent",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Wehrli, Laurent",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Wehrli, Laurent",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Wehrli, Laurent",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Wehrli, Laurent",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Wehrli, Laurent",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Wehrli, Laurent",
+         "target": "Kultur, Sprache, Kirchen"
+      },
+      {
+         "source": "Weibel, Thomas",
+         "target": "Geld, Währung und Kredit"
+      },
+      {
+         "source": "Weibel, Thomas",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Weibel, Thomas",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Weibel, Thomas",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Weibel, Thomas",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Weibel, Thomas",
+         "target": "Bildung und Forschung"
+      },
+      {
+         "source": "Weibel, Thomas",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Weibel, Thomas",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Weibel, Thomas",
+         "target": "Umweltschutz"
+      },
+      {
+         "source": "Weibel, Thomas",
+         "target": "Medien"
+      },
+      {
+         "source": "Weibel, Thomas",
+         "target": "Sozialversicherungen"
+      },
+      {
+         "source": "Wermuth, Cédric",
+         "target": "Aussenpolitik"
+      },
+      {
+         "source": "Wicki, Hans",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Wicki, Hans",
+         "target": "Energie"
+      },
+      {
+         "source": "Wicki, Hans",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Wicki, Hans",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Wicki, Hans",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Wobmann, Walter",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Wobmann, Walter",
+         "target": "Medien"
+      },
+      {
+         "source": "Wobmann, Walter",
+         "target": "Raumplanung und Wohnungswesen"
+      },
+      {
+         "source": "Wobmann, Walter",
+         "target": "Medien"
+      },
+      {
+         "source": "Wobmann, Walter",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Wobmann, Walter",
+         "target": "Medien"
+      },
+      {
+         "source": "Wobmann, Walter",
+         "target": "Landesverteidigung"
+      },
+      {
+         "source": "Wobmann, Walter",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Wobmann, Walter",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Zanetti, Claudio",
+         "target": "Politische Grundfragen"
+      },
+      {
+         "source": "Zanetti, Claudio",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Zanetti, Claudio",
+         "target": "Verkehr und Kommunikation"
+      },
+      {
+         "source": "Zanetti, Roberto",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Zanetti, Roberto",
+         "target": "Gesundheit, Sozialhilfe, Sport"
+      },
+      {
+         "source": "Zanetti, Roberto",
+         "target": "Rechtsordnung"
+      },
+      {
+         "source": "Zanetti, Roberto",
+         "target": "Landwirtschaft"
+      },
+      {
+         "source": "Zanetti, Roberto",
+         "target": "Soziale Gruppen"
+      },
+      {
+         "source": "Zuberbühler, David",
+         "target": "Wirtschaftspolitik"
+      },
+      {
+         "source": "Zuberbühler, David",
+         "target": "Wirtschaftspolitik"
+      }
+   ]
+
+}
